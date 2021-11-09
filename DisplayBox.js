@@ -8,9 +8,9 @@ export const DisplayBox = (props) => {
         display: "inline-block",
         marginTop: "10px",
         marginRight: "10px",
-        width: `${elem.width /* props.style.width */}`,
-        height: `${elem.height/* props.style.height */}`,
-        backgroundColor: `${elem.backgroundColor /* props.style.backgroundColor */}`,
+        width: `${elem.width}`,
+        height: `${elem.height}`,
+        backgroundColor: `${elem.backgroundColor}`,
       }}
     >
 
